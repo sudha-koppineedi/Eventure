@@ -1,4 +1,4 @@
-# Eventure
+
 # 🎉 Eventure – Microservices-Based Event Management Platform
 
 > A scalable, full-stack event management platform built using the **MERN Stack** and a **6-microservice architecture**. Eventure streamlines the complete event lifecycle, enabling secure authentication, event management, registrations, notifications, and leaderboard tracking through a centralized API Gateway.
